@@ -51,6 +51,9 @@ $ gpg --recv-keys 81ECF212
 
 Source is available on
 [GitHub](https://github.com/krayon/dedi)
+and [GitLab](https://gitlab.com/krayon/dedi)
+with the primary (public) repository being
+[GitHub](https://github.com/krayon/dedi)
 .
 
 
